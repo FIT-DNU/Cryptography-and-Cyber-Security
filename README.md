@@ -60,6 +60,6 @@
 <br>https://github.com/Trung010223/ChuKySo/blob/main/README.md
 <br>https://github.com/tuan9242/ChuKiSo
 <br>https://github.com/Yennguyen124/TruyenFiledulieucokyso.git
-<br>https://github.com/user-attachments/assets/f9d56f63-21b8-41c5-b042-83e8ad05cfde)
-<br>https://github.com/user-attachments/assets/f9d56f63-21b8-41c5-b042-83e8ad05cfde)
+<br>https://github.com/user-attachments/assets/f9d56f63-21b8-41c5-b042-83e8ad05cfde
+<br>https://github.com/user-attachments/assets/f9d56f63-21b8-41c5-b042-83e8ad05cfde
 
