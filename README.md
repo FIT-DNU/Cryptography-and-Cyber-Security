@@ -25,7 +25,7 @@
 <h4 align="left">
    DIGITAL SIGNATURE - KHÓA 17
 </h4>
-<br>https://github.com/binhlo/RSA/tree/main
+https://github.com/binhlo/RSA/tree/main
 <br>https://github.com/NTBinh205/RSA
 <br>https://github.com/mc20t6/TruyenFileKySo.git
 <br>https://github.com/vucongdev/RSA-File-Signer
@@ -65,7 +65,7 @@
 <h4 align="left">
    HASH FUNCTION - KHÓA 17
 </h4>
-<br>https://github.com/TVLlam/SHA_TRUYEN_FILE.git
+https://github.com/TVLlam/SHA_TRUYEN_FILE.git
 <br>https://github.com/thuyetdeptrai/SHA
 <br>https://github.com/Lovanlong1210/SHA_TRUYEN-FILE.git
 <br>https://github.com/DiemManhNguyen/BT_Hash-Function.git
@@ -100,7 +100,43 @@
 <br>https://github.com/tranduy157/TruyenFileToanVen
 <br>https://github.com/hoaphun2/LeDuyHoa-chuyenfile.git
 <br>https://github.com/NhatMinh1905/sha256
-
+<h4 align="left">
+   AES - KHÓA 17
+</h4>
+<br>https://github.com/Banhmipatee11/AES/tree/main
+<br>https://github.com/mc20t6/AES_Ma_Hoa.git
+<br>https://github.com/vuchicong1771020108/aes
+<br>https://github.com/nguyen42005/nguyen-tien-dung.git
+<br>https://github.com/tranduy157/TranDuy
+<br>https://github.com/DiemManhNguyen/AES_WEB.git
+<br>https://github.com/haiiigiang/AES
+<br>https://github.com/PhiTruongGiang/bai_tap_aes.git
+<br>https://github.com/hiepnguyen05/ThuatToanAES
+<br>https://github.com/tuanhiep23/thuatoanAES.git
+<br>https://github.com/lehieu2999/AES
+<br>https://github.com/hoaphun2/LeDuyHoa_AES.git
+<br>https://github.com/hhoangzone/AES
+<br>https://github.com/HoangNguyen111h/ThuatToanAES
+<br>https://github.com/tranhauhuan452005/AESThuatToan.git
+<br>https://github.com/huyluong26/AES
+<br>https://github.com/nhucccc/AESSHuy.git
+<br>https://github.com/HuyNG25/AES.git
+<br>https://github.com/LamKheng/BaiTapAES
+<br>https://github.com/ngocminhkien/ATBMTT-AES.git
+<br>https://github.com/TVLlam/THUATTOAN_AES.git
+<br>https://github.com/Lovanlong1210/ThuatToan-AES.git
+<br>https://github.com/VuVietLong1207/AES.git
+<br>https://github.com/manhtb1107/BMTT-AES1-.git
+<br>https://github.com/bngoc04/ThuattoanAES.git
+<br>https://github.com/minhson11/thuatToanAES.git
+<br>https://github.com/thanh331/nmANTT-AES.git
+<br>https://github.com/HOANGTHI2509/ThuatToanAES.git
+<br>https://github.com/thuyetdeptrai/AES
+<br>https://github.com/Trung010223/AES
+<br>https://github.com/tuan9242/aes-web-app
+<br>https://github.com/Yennguyen124/AES.git
+<br>https://github.com/user-attachments/assets/793e6c8e-2494-4ac3-ba02-15de590acd6c
+<br>https://github.com/user-attachments/assets/793e6c8e-2494-4ac3-ba02-15de590acd6c
 
 
 
